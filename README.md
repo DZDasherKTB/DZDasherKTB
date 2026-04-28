@@ -1,13 +1,23 @@
 <div align="center">
 
-```
-██████╗  █████╗ ███████╗██╗  ██╗██████╗ ██████╗ ███████╗███████╗████████╗
-██╔══██╗██╔══██╗██╔════╝██║  ██║██╔══██╗██╔══██╗██╔════╝██╔════╝╚══██╔══╝
-██║  ██║███████║███████╗███████║██████╔╝██████╔╝█████╗  █████╗     ██║   
-██║  ██║██╔══██║╚════██║██╔══██║██╔═══╝ ██╔══██╗██╔══╝  ██╔══╝     ██║   
-██████╔╝██║  ██║███████║██║  ██║██║     ██║  ██║███████╗███████╗   ██║   
-╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   
-```
+<!-- Animated typing header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Dashpreet+Singh+%F0%9F%91%BE;AI+%2F+ML+%2F+DL+%2F+CV+%2F+NLP+%2F+Full-Stack;IIT+Jammu+%7C+B.Tech+CSE+%E2%9A%A1;Building+things+that+actually+matter.)](https://github.com/DZDasherKTB)
+
+<br/>
+
+<!-- Social badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=00FF88)](https://portfolio-theta-seven-36.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dashpreet-singh-218403321)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DZDasherKTB)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashpreetsinghhanda@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=DZDasherKTB&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)
+
+</div>
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=AI+%2B+Deep+Learning+Engineer+%F0%9F%A7%A0;Patent+Holder+%7C+IIT+Jammu+%F0%9F%8F%9B%EF%B8%8F;ISRO+National+Finalist+%F0%9F%9A%80;Building+from+First+Principles+%E2%9A%99%EF%B8%8F;Multimodal+%7C+CV+%7C+NLP+%7C+Agents+%7C+HW+Accel;CS+%40+IIT+Jammu+%7C+CGPA+8.87%2F10" alt="Typing SVG" />
 
