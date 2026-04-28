@@ -34,9 +34,7 @@
 dashpreet = {
     "name"      : "Dashpreet Singh",
     "alias"     : "DZDasherKTB",
-    "college"   : "IIT Jammu — B.Tech CSE (2024–2028)",
-    "cgpa"      : 8.87,
-    "rank"      : "Top 3 in Branch",
+    "college"   : "IIT Jammu : B.Tech CSE (2024–2028)",
     "domains"   : ["Deep Learning", "Computer Vision", "NLP", "Agentic AI",
                    "Multimodal Systems", "Hardware Acceleration", "Cybersecurity",
                    "Geospatial AI", "Spatial Transcriptomics"],
