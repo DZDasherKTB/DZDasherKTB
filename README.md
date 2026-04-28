@@ -5,14 +5,6 @@
 
 <br/>
 
-<!-- Social badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=00FF88)](https://portfolio-theta-seven-36.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dashpreet-singh-218403321)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DZDasherKTB)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashpreetsinghhanda@gmail.com)
-
-<br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=DZDasherKTB&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)
 
 </div>
