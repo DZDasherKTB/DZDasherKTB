@@ -11,10 +11,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=AI+%2B+Deep+Learning+Engineer+%F0%9F%A7%A0;Patent+Holder+%7C+IIT+Jammu+%F0%9F%8F%9B%EF%B8%8F;ISRO+National+Finalist+%F0%9F%9A%80;Building+from+First+Principles+%E2%9A%99%EF%B8%8F;Multimodal+%7C+CV+%7C+NLP+%7C+Agents+%7C+HW+Accel;CS+%40+IIT+Jammu+%7C+CGPA+8.87%2F10" alt="Typing SVG" />
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dashpreet-singh-218403321)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/DZ_DasherKTB)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DZDasherKTB)
