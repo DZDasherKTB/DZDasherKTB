@@ -13,8 +13,6 @@ dashpreet = {
     "open_to"   : ["Research Collabs", "Internships", "Hackathons", "Building things"],
 }
 ```
-```
 ╔══════════════════════════════════════════════════════════╗
 ║  build → break → rebuild better → repeat                 ║
 ╚══════════════════════════════════════════════════════════╝
-```
