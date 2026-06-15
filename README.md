@@ -13,6 +13,10 @@ dashpreet = {
     "open_to"   : ["Research Collabs", "Internships", "Hackathons", "Building things"],
 }
 ```
-╔══════════════════════════════════════════════════════════╗
-║  build → break → rebuild better → repeat                 ║
-╚══════════════════════════════════════════════════════════╝
+```mermaid
+flowchart LR
+    A[build] --> B[break]
+    B --> C[rebuild better]
+    C --> D[repeat]
+    D -.-> A
+```
