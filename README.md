@@ -15,6 +15,7 @@ dashpreet = {
 ```
 ```md
 <p align="center">
-  <img src="./timepass.svg" width="100%" alt="Iteration Engine" />
+  <img src="./timepass.svg" width="100%" alt="build → break → rebuild better → repeat" />
 </p>
 ```
+
