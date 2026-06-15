@@ -1,4 +1,3 @@
-````md
 ```python
 dashpreet = {
     "name"      : "Dashpreet Singh",
@@ -17,4 +16,3 @@ dashpreet = {
 <p align="center">
   <img src="./timepass.svg" width="100%" alt="build → break → rebuild better → repeat" />
 </p>
-````
